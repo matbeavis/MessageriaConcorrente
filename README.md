@@ -29,4 +29,4 @@ Esta atividade consiste na criação de um chat rudimentar utilizando messageria
 
 ## Autores
 
-[]
+- [@matbeavis](https://www.github.com/matbeavis)
