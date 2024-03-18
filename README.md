@@ -1,4 +1,4 @@
-# MessageriaConcorrente
+# Messageria Concorrente
 
 Este é um projeto de chat rudimentar utilizando messageria (JMS), desenvolvido como parte de uma atividade auto-instrucional na Universidade FUMEC, na disciplina de Desenvolvimento de Sistemas Distribuídos, ministrada pelo Professor Flávio Velloso Laper.
 
